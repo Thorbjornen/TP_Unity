@@ -1,4 +1,4 @@
-﻿# Dinner TP
+﻿# Dinner TP Moretti, Rachdi-Hebert, Groeninck
 
 Le but de ce TP est de réaliser un petit jeu de lancer de légumes. Le joueur doit lancer les légumes dans les tasses pour marquer des points.
 
